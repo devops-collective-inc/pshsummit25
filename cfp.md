@@ -1,20 +1,22 @@
 # PowerShell + DevOps Global Summit 2025 Call for Proposals (CFP)
 
-We are excited to invite you to submit your session proposals for the **2025 PowerShell + DevOps Global Summit**, happening in Bellevue, WA April 7-10, 2025. The Summit is the premier event for PowerShell and DevOps professionals, where the community gathers to share knowledge, solve problems, and push the boundaries of technology.
+We are excited to invite you to submit your session proposals for the **2025 PowerShell + DevOps Global Summit**, happening in Bellevue, WA April 7-10, 2025. The Summit is the premier event for PowerShell and DevOps professionals, where the community gathers to share knowledge, solve problems, socialize and network with peers, and push the boundaries of technology.
 
-## What We’re Looking For
+## What We're Looking For
 
-This year, we are seeking a diverse range of topics focused on **PowerShell, DevOps, Cloud Computing**, and other relevant subjects. While we’ve seen amazing growth in PowerShell as a language, we are particularly interested in **new ways to use PowerShell**, innovative problem-solving approaches, and fresh applications of existing tools. The topics we are interested in include, but are not limited to:
+This year, we are seeking a diverse range of topics focused on **PowerShell, DevOps, Cloud Computing, Automation**, and other relevant subjects. While we've seen amazing growth in PowerShell as a language, we are particularly interested in **new ways to use PowerShell and Automation integrations**, innovative problem-solving approaches, and fresh applications of existing tools. The topics we are interested in include, but are not limited to:
 
-- **PowerShell Automation**: Innovative use cases, advanced techniques, or novel approaches to automation with PowerShell.
+- **PowerShell**: Innovative use cases, advanced techniques, or novel approaches to automation with PowerShell.
+- **Automation Integrations**: Using PowerShell to automate and integrate with other tools, platforms, or services such as Ansible, Terraform, IoT, etc.
 - **DevOps Practices**: Continuous Integration/Continuous Delivery (CI/CD), Infrastructure-as-Code, DevSecOps, and beyond.
+- **Cross-Platform Automation**: Using PowerShell to manage Windows, Linux, and macOS environments.
 - **Cloud Computing**: Using PowerShell in Azure, AWS, or other cloud environments, especially in the context of automation, management, or security.
 - **Real-World Solutions**: Case studies, problem-solving approaches, and success stories demonstrating practical applications in the field.
 - **Advanced Topics (400-level)**: We encourage deep-dive technical sessions for seasoned professionals. If you have a **400-level** session to propose, please clearly outline the advanced techniques or skills you will cover.
-- **Soft Skills & Career Growth**: We welcome talks that focus on career development, community-building, and professional growth within DevOps and IT communities.
-- **Next-Level Sessions**: Any new approaches to PowerShell or DevOps that solve problems in innovative ways. We especially want to hear the "hey, no one talks about that" topics!
+- **Soft Skills & Career Growth**: Talks that focus on career development, community-building, and professional growth within DevOps and IT communities.
+- **Next-Level Sessions**: Any new and innovative approaches to PowerShell or DevOps that help solve problems. We especially want to hear the "Hey, no one talks about that" topics!
 
-If you're unsure whether your idea fits, think: “Will this make the PowerShell/DevOps community better?” If the answer is yes, we want to hear from you.
+If you're unsure whether your idea fits, think: "Will this make the PowerShell/DevOps community better?" If the answer is yes or even a maybe, we want to hear from you.
 
 ### Session Types
 
@@ -25,14 +27,13 @@ We offer four types of sessions, each with associated speaker benefits. Please n
 - **90-Minute Deep Dives**: In-depth, workshop-style sessions for deeper exploration of a subject. Each speaker will receive a **$1,000 honorarium**.
 - **4-Hour Hands-On Labs**: Extended, practical sessions where attendees can actively engage with the material. These interactive labs should include pre-prepared materials for participants to follow along. Each speaker will receive a **$2,000 honorarium**.
 
-All sessions are delivered in person and must be conducted in English.
+All sessions are required to be delivered in person at the conference site and, at a minimum, must be presented in English.
 
-**The proposal submitter should begin to secure the necessary permissions before submitting.**
+**The proposal submitter should secure the necessary permissions before submitting.**
 
-We understand that someof you rely on your company to pay for travel to this event.  While we provide an honorarium, it is unlikely to cover all T&L, so if additional expenses are necessary, please start working on those details during the submission and review period.
+We understand that some of you rely on your company to pay for travel to this event.  While we provide an honorarium, it is unlikely to cover all expenses, so if additional expenses are necessary, please start working on those details during the submission and review period.
 
-
-In addition to the honorarium, speakers will receive a complimentary conference pass. However, please note that only one speaker per session will be eligible for benefits. If you are co-presenting, benefits will only be extended to the primary speaker listed on the submission unless otherwise agreed upon in advance.
+In addition to the honorarium, speakers will receive a complimentary conference pass. However, please note that only one speaker per session will be eligible for these benefits. If you are co-presenting, benefits will only be extended to the primary speaker listed on the submission unless otherwise agreed upon in advance.
 
 ### Submission Process
 
@@ -47,15 +48,14 @@ We expect all speakers to **review the travel and speaker benefit information** 
 
 
 - All sessions **must be delivered in person**. We do not accommodate remote or virtual presentations.
-- Sessions **must be delivered in English**.
+- Sessions **must be at a minimum delivered in English**.
 - Speakers are expected to thoroughly review all conference details, including speaker benefits and session requirements, prior to submission. 
 
 ## Deadline
 
 The CFP will close on **15-Nov-2024**. Please make sure to submit your proposal by then. No late submissions will be considered.
 
-Speaker notifications will go out the first week of Janurary. 
 
-If you’re ready to help shape the future of PowerShell and DevOps, we want to hear from you! 
+If you're ready to help shape the future of PowerShell and DevOps, we want to hear from you! 
 
 ## Submit your proposal now!
