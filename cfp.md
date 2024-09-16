@@ -13,6 +13,7 @@ This year, we are seeking a diverse range of topics focused on **PowerShell, Dev
 - **Cloud Computing**: Using PowerShell in Azure, AWS, or other cloud environments, especially in the context of automation, management, or security.
 - **Real-World Solutions**: Case studies, problem-solving approaches, and success stories demonstrating practical applications in the field.
 - **Advanced Topics (400-level)**: We encourage deep-dive technical sessions for seasoned professionals. If you have a **400-level** session to propose, please clearly outline the advanced techniques or skills you will cover.
+- **Security-Related Topics**: Sessions covering PowerShell security best practices, automation for security operations, securing DevOps pipelines, cloud security, and other emerging cybersecurity trends.
 - **Soft Skills & Career Growth**: Talks that focus on career development, community-building, and professional growth within DevOps and IT communities.
 - **Next-Level Sessions**: Any new and innovative approaches to PowerShell or DevOps that help solve problems. We especially want to hear the "Hey, no one talks about that" topics!
 
@@ -41,6 +42,7 @@ We will be using a **two-round selection process**:
 
 1. **Round 1 - Blind Review**: In the first round, we will conduct a blind review where submissions are anonymized. Each proposal will be rated on a Yes/No/Maybe scale.
 2. **Round 2 - Comparison**: In the second round, proposals will be compared based on their scores, and final selections will be made.
+We use a two-round selection process to ensure a fair and thorough review of all submissions, with the first round being blind to eliminate bias and focus solely on the quality and relevance of the content. This approach helps us select the best sessions based on merit before moving to a more detailed comparison in the second round.
 
 ### Important Information
 
