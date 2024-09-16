@@ -42,6 +42,7 @@ We will be using a **two-round selection process**:
 
 1. **Round 1 - Blind Review**: In the first round, we will conduct a blind review where submissions are anonymized. Each proposal will be rated on a Yes/No/Maybe scale.
 2. **Round 2 - Comparison**: In the second round, proposals will be compared based on their scores, and final selections will be made.
+ 
 We use a two-round selection process to ensure a fair and thorough review of all submissions, with the first round being blind to eliminate bias and focus solely on the quality and relevance of the content. This approach helps us select the best sessions based on merit before moving to a more detailed comparison in the second round.
 
 ### Important Information
