@@ -1,0 +1,20 @@
+Automation / Scene / Script
+
+A scene is a series of actions, where each action is limited to setting an entity’s state. You can activate a scene from the UI, a script, or automation.
+
+Example: Set bedroom light brightness to 50%.
+
+A script is a series of actions optionally controlled by logic, able to execute any service call. You can activate a script from the UI or an automation.
+
+Example: Set bedroom light brightness to 50% but only if the light is currently off and the current time is after 20:00:00.
+
+An automation listens for a desired event to occur and then executes a series of actions optionally controlled by logic, able to execute any service call.
+
+Example: When motion is detected in the bedroom, set bedroom light brightness to 50% but only if the light is currently off and the current time is after 20:00:00.
+
+Example automations:
+
+If datacenter entry door is opened, record event in log, take snapshot of entrance camera, turn on office lights, and track prescense of person in office area and datacentter area.
+
+At sunset, turn on sunset lights, turn off daytime lights, send notification of presence in home, and if home is empty, turn on security system, set temperature to 65, lock all doors, and take snapshot from all interior cameras.
+
