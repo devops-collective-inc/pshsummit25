@@ -23,7 +23,7 @@ Content from the 2025 PowerShell + DevOps Global Summit.
   - [Code](./Mike%20Nelson%20-%20Creating%20Automation%20with%20APIs%20and%20PowerShell)
 - Creating Intuitive AI Agents for PowerShell with AI Shell (Mike Nelson, Steven Bucher)
   - [Slides](./Mike%20Nelson%20-Steven%20Bucher%20-%20Creating%20Intuitive%20AI%20Agents%20for%20PowerShell%20with%20AI%20Shell/Creating%20Intuitive%20AI%20Agents%20for%20PowerShell%20with%20AI%20Shell.pdf)
-  -[Code](./Mike%20Nelson%20-Steven%20Bucher%20-%20Creating%20Intuitive%20AI%20Agents%20for%20PowerShell%20with%20AI%20Shell/multiple-models-weather.ps1)
+  - [Code](./Mike%20Nelson%20-Steven%20Bucher%20-%20Creating%20Intuitive%20AI%20Agents%20for%20PowerShell%20with%20AI%20Shell/multiple-models-weather.ps1)
 - Deep Dive(s) on Terraform Features (Mark Gray, Steven Ma)
 - Delivering Value Through Data with Trust, Understanding, and Care (Jennifer Stirrup)
 - Desired State Configuration DSCv3.0 (Steve Lee, Michael Greene)
