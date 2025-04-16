@@ -19,6 +19,8 @@ Content from the 2025 PowerShell + DevOps Global Summit.
 - Classes and Broadcasts: Building a PowerShell Module for Instant Visual Settings (Arnoud Jansveld)
 - CLI Tools for DevOps from A to Z (Joel Bennett)
 - Creating Automation with APIs and PowerShell (Mike Nelson)
+  - [Content](./tree/main/Mike%20Nelson%20-%20Creating%20Automation%20with%20APIs%20and%20PowerShell)
+  - [Slides](./Mike%20Nelson%20-%20Creating%20Automation%20with%20APIs%20and%20PowerShell/Creating%20Automation%20with%20APIs%20and%20PowerShell.pptx)
 - Creating Intuitive AI Agents for PowerShell with AI Shell (Mike Nelson)
 - Deep Dive(s) on Terraform Features (Mark Gray, Steven Ma)
 - Delivering Value Through Data with Trust, Understanding, and Care (Jennifer Stirrup)
