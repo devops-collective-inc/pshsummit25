@@ -17,6 +17,8 @@ Content from the 2025 PowerShell + DevOps Global Summit.
 - Building Resilient Automations with PowerShell (Matthew Dowst)
 - Chocolatey
 - Classes and Broadcasts: Building a PowerShell Module for Instant Visual Settings (Arnoud Jansveld)
+  - [Slides](<Arnoud Jansveld - Classes and Broadcasts - Building a PowerShell Module for Instant Visual Settings/Slides.pdf>)
+  - [Code](<Arnoud Jansveld - Classes and Broadcasts - Building a PowerShell Module for Instant Visual Settings>)
 - CLI Tools for DevOps from A to Z (Joel Bennett)
 - Creating Automation with APIs and PowerShell (Mike Nelson)
   - [Slides](./Mike%20Nelson%20-%20Creating%20Automation%20with%20APIs%20and%20PowerShell/Creating%20Automation%20with%20APIs%20and%20PowerShell.pptx)
