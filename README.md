@@ -68,6 +68,8 @@ Content from the 2025 PowerShell + DevOps Global Summit.
 - PowerShell for Lab Automation: Hands-On with AutomatedLab (Phil Bossman)
 - PowerShell for Pure Productivity and Perhaps Profit (Andrew Pla, James Ruskin)
 - PowerShell in CI/CD Pipelines: A Practical Tour of Deployment Options (Blake Cherry, Danny Stutz)
+  - [Slides] (./PowerShell%20in%20CICD%20Pipelines%20-%20A%20Practical%20Tour%20of%20Deployment%20Options/Slides.pdf)
+  - [Code] (https://github.com/Blakelishly/PipelineDemo)
 - PowerShell Performance and Technique Tweaks: The Encore (Christian Ritter)
 - The Rise of Open Standards in Observability (Joel Bennett)
 - A Scripters next step.. building a RESTful API (Ryan Coates)
